@@ -1,7 +1,9 @@
 package org.example.classes;
 
+import java.text.SimpleDateFormat;
+
 public class Ticket {
     int price;
-    int data;
+    SimpleDateFormat data;
     Seat seat;
 }
