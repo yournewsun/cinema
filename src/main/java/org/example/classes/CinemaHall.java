@@ -5,5 +5,5 @@ import java.util.ArrayList;
 public class CinemaHall {
     int numberOfRows;
     int numberOfSeatsInARow;
-    ArrayList<Seat> hallSize = new ArrayList<>();
+    ArrayList<RowSeat> hallSize = new ArrayList<>();
 }
